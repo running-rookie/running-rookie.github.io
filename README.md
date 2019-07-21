@@ -1,6 +1,6 @@
 # leopard
 
-[leopard](http://baixin.io) 是一个简洁的博客模板，如果你也喜欢请 Star ，你的 Star 是我持续更新的动力, 谢谢 😄.
+[leopard](http://baixin.io)克隆的大佬的模板，想用同款就去他的GitHub看看，或者博客里也有教程，下边的都是这个大佬写的 😄.
 
 ### 使用手册
 
